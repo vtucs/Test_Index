@@ -1,0 +1,85 @@
+{
+  "context": "Laboratory Experiments",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Test_Repository",
+  "branch": "master",
+  "isValid": true,
+  "labExperiments": [
+    {
+      "serialOrder": "01",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "01.T1.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "02",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "02.a.T2a.txt"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "02.b.T2b.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "03",
+      "labExperimentSubParts": [
+        {
+          "contentFiles": [
+            {
+              "fileName": "03.01.T31.txt"
+            },
+            {
+              "fileName": "03.02.T32.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "serialOrder": "04",
+      "labExperimentSubParts": [
+        {
+          "subSerialOrder": "a",
+          "contentFiles": [
+            {
+              "fileName": "04.a.01.T4a1.txt"
+            },
+            {
+              "fileName": "04.a.02.T4a2.txt"
+            }
+          ]
+        },
+        {
+          "subSerialOrder": "b",
+          "contentFiles": [
+            {
+              "fileName": "04.b.01.T4b1.txt"
+            },
+            {
+              "fileName": "04.b.02.T4b2.txt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

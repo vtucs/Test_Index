@@ -1,0 +1,13 @@
+{
+  "context": "Laboratories LabIndexResponse",
+  "github_raw_content": "https://raw.githubusercontent.com",
+  "organization": "vtucs",
+  "repository": "Test_Index",
+  "branch": "master",
+  "isValid": true,
+  "laboratories": [
+    {
+      "fileName": "TestRepositoryResponse.json"
+    }
+  ]
+}
